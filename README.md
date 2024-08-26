@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there! 👋 I'm Jashanjot Singh, currently in the pre-final year of my BCA at Chitkara University. I love coding and programming, focusing on web development and DSA in Java. Here’s a snapshot of what I do:<br><br>Web Development: Created projects like 'Petsy' (ecommerce website) and 'Weathervue' (real-time weather app).<br>DSA: Continuously practicing and refining my skills in data structures and algorithms using Java.<br>Experience: Completed a virtual internship with CYPHERBITES and currently working on a frontend website for an online learning platform.
+Hi ! I'm Jashanjot Singh, currently in the pre-final year of my BCA at Chitkara University. I love coding and programming, focusing on web development and DSA in Java. Here’s a snapshot of what I do:<br><br>Web Development: Created projects like 'Petsy' (ecommerce website) and 'Weathervue' (real-time weather app).<br>DSA: Continuously practicing and refining my skills in data structures and algorithms using Java.<br>Experience: Completed a virtual internship with CYPHERBITES and currently working on a frontend website for an online learning platform.
 
 
 ## 🌐 Socials:
