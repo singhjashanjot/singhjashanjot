@@ -1,7 +1,7 @@
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=40&color=%2379A500&height=67&duration=3000&center=true&lines=%F0%9F%85%B6%F0%9F%86%81%F0%9F%85%B4%F0%9F%85%B4%F0%9F%86%83%F0%9F%85%B8%F0%9F%85%BD%F0%9F%85%B6%F0%9F%86%82">
 
-## **Hey 👋, I'm Jashanjot singh!**  
+## **<h1> Hello Fellow &lt; Developers/ &gt;! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> </h1>**  
   
 
 <a href="https://github.com/singhjashanjot" target="_blank">
@@ -17,7 +17,8 @@
 
 
 
-### Glad to see you here!  
+### Glad to see you here! 
+
 I'm a Full stack web developer passionate about crafting seamless, user-interactive websites. Being a full-stack allows me to not only develop client-facing apps and websites but also develop it with cutting edge backend support.👨‍💻
 
 As a full stack developer, I thrive on the versatility it offers—building and managing every part of a web application, from designing stunning interfaces to implementing robust server-side logic. I love designing systems that are light yet powerful, distributed yet synchronized, and beautiful yet effective.
