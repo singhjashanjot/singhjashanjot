@@ -45,17 +45,22 @@ As a full stack developer, I thrive on the versatility it offers—building and 
 <p align="center">
 <img src="https://raw.githubusercontent.com/trinib/trinib/main/images/banner.svg"  width="600">
 <table><tr><td valign="top" width="50%">
+<br/>   <br/>   <br/>  
 
-- 🔭 I’m currently working on [LogPeers](https://logpeers.vercel.app/)  
+
+ 👨‍💻 I'm a 2nd year BCA student at Chitkara University , Punjab
+ 
+ 
+ 🔭 I’m currently working on [LogPeers](https://logpeers.vercel.app/)  
   
 
-- 🌱 I’m currently exploring MERN & Data structures and algorithms  
+ 🌱 I’m currently exploring MERN & Data structures and algorithms  
   
 
-- ❓ Ask me about anything related to MERN stack and related technologies  
+ ❓ Ask me about anything related to MERN stack and related technologies  
   
 
-- ⚡ Fun fact: I keep night shift swithed on at all times   
+ ⚡ Fun fact: I keep night shift swithed on at all times   
 
 
 </td><td valign="top" width="50%">
