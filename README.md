@@ -5,6 +5,7 @@
 <h1 align="center">I'm Jashanjot Singh , A passionate developer from Punjab,India </h1>
 
 
+
 - 🔭 I’m currently working on [Logpeers](https://logpeers.vercel.app/)
 
 - 🌱 I’m currently learning **DSA ,Azure tools & services and more**
@@ -12,9 +13,11 @@
 - 📫 How to reach me **jsjsnarang6@gmail.com**
 
 
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/jashanjotsngh01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jashanjotsngh01" height="30" width="40" /></a>
+<a href="https://mail.google.com/mail/u/0/#inbox" target="blank"><img align="center" src="![image](https://github.com/user-attachments/assets/960ebc3d-95c4-411e-8e72-68a292fcf872)
+" alt="jsjsnarang6" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
