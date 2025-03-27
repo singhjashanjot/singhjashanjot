@@ -2,14 +2,15 @@
 
 ## **<h1> Hello Fellow &lt; Developers/ &gt;! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> </h1>**  
 
-<h1 align="center">Hi 👋, I'm Jashanjot Singh</h1>
-<h3 align="center">A passionate developer from Punjab,India</h3>
+<h1 align="center">I'm Jashanjot Singh , A passionate developer from Punjab,India </h1>
+
 
 - 🔭 I’m currently working on [Logpeers](https://logpeers.vercel.app/)
 
 - 🌱 I’m currently learning **DSA ,Azure tools & services and more**
 
 - 📫 How to reach me **jsjsnarang6@gmail.com**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
