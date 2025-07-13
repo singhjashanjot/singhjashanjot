@@ -2,7 +2,7 @@
 
 ## **<h1> Hello Fellow &lt; Developers/ &gt;! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> </h1>**  
 
-<h1 align="center">I'm Jashanjot Singh , A passionate developer from Punjab,India </h1>
+<h1 align="center">I'm Jashanjot Singh , A passionate developer from Punjab, India </h1>
 
 
 
