@@ -6,9 +6,9 @@
 
 
 
-- 🔭 I’m currently working on [Dhaniverse](https://dhaniverse.vercel.app/)
+- 🔭 Building [Dhaniverse](https://dhaniverse.vercel.app/)
 
-- 🌱 I’m currently learning **DSA ,Azure tools & services and more**
+- 🌱 Exploring WEB3, blockchain, decentralised stuff
 
 - 📫 How to reach me **jsjsnarang6@gmail.com**
 
