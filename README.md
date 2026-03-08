@@ -6,7 +6,7 @@
 
 
 
-- 🔭 Building [Dhaniverse](https://dhaniverse.vercel.app/)
+- 🔭 Building [Dhaniverse](https://dhaniverse.in)
 
 - 🌱 Exploring WEB3, blockchain, decentralised stuff
 
